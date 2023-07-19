@@ -6,11 +6,11 @@
 
 Here are the steps we will take:
 
-Create a scene
-Build the environment
-Add the player
-Create player animations for walking and attacking
-Add an enemy
-Create enemy animations for walking, attacking, and dying
-Implement the GameManager
-Add special effects
+- Create a scene
+- Build the environment
+- Add the player
+- Create player animations for walking and attacking
+- Add an enemy
+- Create enemy animations for walking, attacking, and dying
+- Implement the GameManager
+- Add special effects
